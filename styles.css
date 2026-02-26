@@ -1,0 +1,272 @@
+@import url("https://use.typekit.net/ldj6sgw.css");
+
+body {
+    background-image: url('images/barnacle.jpg');
+    background-size: auto;
+    background-repeat: repeat;
+    cursor: url('images/cursor_bug.png'), auto;
+    overflow-y: auto;
+    overflow-x: hidden;
+}
+
+h1 {
+    color: rgb(213, 100, 51);
+    background-color: #1b795d;
+    font-family: "comic-sans-ms", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 80px;
+    position: absolute;
+}
+
+h2 {
+    color: yellow;
+    font-family: "cc-monstrosity-hide", sans-serif;
+    font-weight: 500;
+    font-style: normal;
+    font-size: 150px;
+    text-align: center;
+    position: absolute; z-index: 10; top: 2.3%; right: 5%;
+    line-height: 110px;
+}
+
+.vik {
+    font-family: "viktorie", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
+.img1 {
+    width: 400px;
+    position: relative; z-index: 5; top: 400px;
+    color: blueviolet;
+    background-color: bisque;
+    font-size: 3rem;
+}
+
+.img1 p {
+    z-index: 3;
+    top: 90%;
+}
+
+.img2 {
+    width: 500px;
+    position: absolute; z-index: 4; top: 50%; left: 500px;
+    color: rgb(15, 255, 247);
+    background-color: rgb(208, 151, 81);
+    font-size: 2rem;
+}
+.img2 p {
+    z-index: 3;
+    top: 20%;
+}
+
+.img3 {
+    width: 300px;
+    position: relative; z-index: 3; top: 60%; left: 1200px;
+    color: lawngreen;
+    background-color: hotpink;
+    font-size: 2.5rem;
+}
+.img3 p {
+    z-index: 2;
+    top: 60%;
+}
+
+.img4 {
+    width: 540px;
+    position: relative; z-index: 6; top: 400px; left:4%;
+    color: red;
+    background-color: orange;
+    font-size: 6rem;
+    line-height: 80px;
+}
+.img4 p {
+    position: relative;
+    z-index: 3;
+    top: 1200px;
+}
+
+.img5 {
+    width: 540px;
+    position: relative; z-index: 8; top: 700px; left:60%;
+    color: rgb(214, 219, 82);
+    background-color: rgb(23, 79, 46);
+    font-size: 3rem;
+    line-height: 80px;
+}
+.img5 p {
+    position: relative;
+    z-index: 6;
+    top: 1200px;
+}
+
+.img6 {
+    width: 540px;
+    position: absolute; z-index: 8; top: 920px; left:40%;
+    color: rgb(20, 120, 122);
+    background-color: rgb(213, 236, 222);
+    font-size: 3rem;
+    line-height: 40px;
+}
+.img6 p {
+    position: relative;
+    z-index: 6;
+    top: 50%;
+}
+
+.img7 {
+    width: 440px;
+    position: absolute; z-index: 8; top: 1960px; left:15%;
+    color: rgb(154, 164, 42);
+    background-color: rgb(106, 28, 28);
+    font-size: 2rem;
+    line-height: 80px;
+}
+.img7 p {
+    position: relative;
+    z-index: 6;
+    top: -10%;
+}
+
+.img8 {
+    width: 800px;
+    position: relative; z-index: 8; top: 1000px; left:40%;
+    color: rgb(154, 164, 42);
+    background-color: rgb(106, 28, 28);
+    font-size: 5.6rem;
+    line-height: 80px;
+}
+.img8 p {
+    position: relative;
+    z-index: 2;
+    top: 30%;
+}
+
+.img9 {
+    width: 370px;
+    position: relative; z-index: 8; top: 1200px; left:8%;
+    color: rgb(234, 255, 0);
+    background-color: rgb(129, 84, 129);
+    font-size: 3.4rem;
+    line-height: 20px;
+}
+.img9 p {
+    position: relative;
+    z-index: 2;
+    top: -10%;
+}
+
+.img10 {
+    width: 530px;
+    position: relative; z-index: 8; top: 800px; left:40%;
+    color: rgb(133, 64, 65);
+    background-color: rgb(193, 162, 230);
+    font-size: 3.4rem;
+    line-height: 70px;
+}
+.img10 p {
+    position: relative;
+    z-index: 2;
+    top: -10%;
+}
+
+.img11 {
+    width: 610px;
+    position: relative; z-index: 8; top: 800px; left:60%;
+    color: rgb(245, 190, 101);
+    background-color: rgb(230, 230, 162);
+    font-size: 4.3rem;
+    line-height: 70px;
+}
+.img11 p {
+    position: relative;
+    z-index: 2;
+    top: -10%;
+}
+
+.img12 {
+    width: 300px;
+    position: absolute; z-index: 8; top: 4600px; left:20%;
+    color: rgb(26, 113, 58);
+    background-color: rgb(255, 134, 48);
+    font-size: 3.3rem;
+    line-height: 30px;
+}
+.img12 p {
+    position: absolute;
+    z-index: 4;
+    top: 4900px;
+}
+
+.img13 {
+    width: 610px;
+    position: relative; z-index: 8; top: 800px; left:7%;
+    color: rgb(222, 61, 209);
+    background-color: rgb(148, 148, 28);
+    font-size: 4.3rem;
+    line-height: 70px;
+}
+.img13 p {
+    position: relative;
+    z-index: 2;
+    top: -10%;
+}
+
+.img14 {
+    width: 510px;
+    position: relative; z-index: 8; top: 100px; left:56%;
+    color: rgb(254, 237, 50);
+    background-color: rgb(28, 148, 28);
+    font-size: 4.3rem;
+    line-height: 70px;
+}
+.img14 p {
+    position: relative;
+    z-index: 2;
+    top: -10%;
+}
+
+.img15 {
+    width: 510px;
+    position: relative; z-index: 8; top: 100px; left:56%;
+    color: rgb(147, 34, 93);
+    background-color: rgb(213, 144, 60);
+    font-size: 2.8rem;
+    line-height: 70px;
+}
+.img15 p {
+    position: relative;
+    z-index: 2;
+    top: -10%;
+}
+
+.img16 {
+    width: 570px;
+    position: relative; z-index: 8; top: 10px; left:10%;
+    color: rgb(193, 127, 76);
+    background-color: rgb(195, 237, 232);
+    font-size: 3rem;
+    line-height: 50px;
+}
+.img16 p {
+    position: relative;
+    z-index: 2;
+    top: -10%;
+}
+
+.sparkle1 {
+    width: 600px;
+    position: absolute; z-index: 12; top: 120%; right: 8%;
+}
+
+.sparkle2 {
+    width: 470px;
+    position: absolute; z-index: 12; top: 320%; left: 10%;
+}
+
+.sparkle3 {
+    width: 280px;
+    position: absolute; z-index: 13; bottom: -300%; right:20%;
+}
+
